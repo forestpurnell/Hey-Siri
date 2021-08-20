@@ -1,7 +1,7 @@
-#A List of Siri Commands
+# Siri Cheat Sheet
 
+A list of Siri commands. Forked from rexlow's original version to edit for conciseness and improve markdown formatting. Does not include the original .json file or the German commands.
 
-## Commands in English
 ## Conversion
 What are *130* *miles* in *yards* ?
 What are *9000* *meters* in *kilometers* ?
@@ -1154,18 +1154,14 @@ Random number between *0* and *20*
 Random number between *30* and *60*
 
 ## Funny
-See you on the seventh
 
+See you on the seventh
 What is *1 million*  divided by 0?
 What is *0*  divided by 0?
-
 What is infinity times infinity?
-
 Rock paper scissors
-
 *Siri* make me a sandwich
 *Sudo* make me a sandwich
-
 Tell me a *joke*
 Tell me a *haiku*
 Tell me a *tongue twister*
@@ -1173,1196 +1169,122 @@ Tell me a *story*
 Tell me a *poem*
 Tell me a *secret*
 Tell me a *bedtime story*
-
 Sing me a lullaby
-
 Beam me up
-
 Guess what
-
 Who's on first?
-
 Open the pod bay doors
-
 Sing me a song now
-
 Kiss me
-
 Talk dirty with me
-
 Why is your name Siri?
-
 When is your birthday?
-
 What's your sign?
-
 What's your favourite animal?
-
 What color is your hair?
-
 How much do you weigh?
-
 Are you *fast* ?
 Are you *smart* ?
 Are you *perfect* ?
-
 Can you see me?
-
 Do you think I look fat in this?
-
 Will you marry me?
-
 May the force be with you
-
 Can I call you Jarvis?
-
 Can I buy you a drink?
-
 Are you there?
-
 What are you doing?
-
 What are you wearing?
-
 When do you sleep?
-
 How do *you* look?
 How do *I* look?
-
 How is it to be you?
-
 Why do you vibrate?
-
 Do you have a boyfriend?
-
 Have you seen Star Wars?
-
 What is your favourite *colour* ?
 What is your favourite *movie* ?
 What is your favourite *song* ?
-
 What are you going to be for Halloween?
-
 Do you know pick up lines?
-
 Mirror mirror on the wall, who's the fairest of them all
-
 What does the fox say?
-
 Who let the dogs out?
-
 How much wood could a woodchuck chuck if a woodchuck could chuck wood?
-
 What is the airspeed velocity of an unladen swallow?
-
 Why are fire trucks red?
-
 Why did the chicken cross the road?
-
 What is the meaning of life?
-
 Is there a God?
-
 When is the end of the world?
-
 What's the best phone?
-
 Can I borrow some money?
-
 supercalifragilisticexpialidocious
-
 Rap
-
 Beatbox
-
 Knock Knock
-
 OK Google
-
 *Hey Cortana*
 *Can I call Cortana?*
-
 Shut up!
-
 Thank you
-
 You're the best
-
 Blah blah blah
-
 Meow
-
 I'm *naked*
 I'm *drunk*
 I'm *sleepy*
-
-## Siri
 How many languages do you speak?
 
 ## Dictation
+
 Comma
-
 Dot
-
 Point
-
 Ellipsis
-
 Quote
-
 Apostrophe
-
 Dash
-
 Hyphen
-
 Em dash
-
 Underscore
-
 Asterisk
-
 Ampersand
-
 At sign
-
 Degree sign
-
 Caret
-
 Greather than sign
-
 Less than sign
-
 Forward slash
-
 Back slash
-
 Vertical bar
-
 Percent sign
-
 Copyright sign
-
 Registered sign
-
 Section sign
-
 Dollar sign
-
 Cent sign
-
 Euro sign
-
 Yen sign
-
 Pound sterling sign
-
 Pound sign
-
 *Open* parenthesis
 *Close* parenthesis
-
 *Open* bracket
 *Close* bracket
-
 *Open* brace
 *Close* brace
-
 *Open* curly bracket
 *Close* curly bracket
-
 Full stop
-
 Exclamation point
-
 Inverted exclamation point
-
 Question mark
-
 Inverted question mark
-
 New line
-
 New paragraph
-
 Cap
-
 All caps
-
 Smiley
-
 Frowny
-
 Winky
-
-# Commands in Deutsch (German)
-## Konvertieren
-Was sind *130* *Meilen* in *Yards* ?
-Was sind *9000* *Meter* in *Kilometer* ?
-Was sind *41* *Liter* in *Unzen* ?
-
-Rechne *130* *Minuten* in *Stunden* um.
-Rechne *23* *Jahre* in *Sekunden* um.
-Rechne *8* *Stunden* in *Tage* um.
-
-Was sind *2330* *Dollar* in *Euros* ?
-Was sind *89* *Euros* in *Schweizer Franken* ?
-Was sind *128* *Dollar* in *Pfund* ?
-
-## Mathematik
-Was ist  *9* *plus* *53* ?
-Was ist  *25* *minus* *63* ?
-Was ist  *3426* *dividiert durch* *564* ?
-Was ist  *234* *multipliziert mit* *1355* ?
-
-Was ist *1* Prozent von *53* ?
-Was ist *9* Prozent von *63* ?
-Was ist *23* Prozent von *564* ?
-Was ist *99* Prozent von *1355* ?
-
-Was ist *1* Prozent von *9* *plus* *53* ?
-Was ist *9* Prozent von *25* *minus* *63* ?
-Was ist *23* Prozent von *3426* *dividiert durch* *564* ?
-Was ist *99* Prozent von *234* *multipliziert mit* *1355* ?
-
-Wie viel Trinkgeld soll ich bei *12,50 €* geben?
-Wie viel Trinkgeld soll ich bei *21 €* geben?
-Wie viel Trinkgeld soll ich bei *103 €* geben?
-
-## Datumsberechnung
-Welches Datum ist *90 Tage* *vor* dem *17. Dezember* ?
-Welches Datum ist *2 Monate* *nach* dem *23. Januar 2017* ?
-
-Welcher Tag *war vor* *90 Tagen* ?
-Welcher Tag *ist in* *2 Monaten* ?
-
-In wie vielen Tagen ist *Valentinstag* ?
-In wie vielen Tagen ist *Ostern* ?
-In wie vielen Tagen ist *Weihnachten* ?
-In wie vielen Tagen ist *Heiligabend* ?
-In wie vielen Tagen ist *Silvester* ?
-In wie vielen Tagen ist *Neujahr* ?
-In wie vielen Tagen ist *Halloween* ?
-
-## Apps & App Store
-*Öffne* *Safari*
-*Starte* *Spotify*
-*Öffne* *Mail*
-*Starte* *Notizen*
-
-Öffne *Safari*
-Öffne *Spotify*
-Öffne *Mail*
-Öffne *Notizen*
-Öffne *Mission Control*
-
-Nimm ein Foto auf
-
-Lade *Facebook* herunter
-Lade *Twitter* herunter
-Lade *WhatsApp* herunter
-
-Finde im App Store *Essen und Trinken-Apps*
-Finde im App Store *Spielen*
-Finde im App Store *Produktivität-Apps*
-
-## Gerätesteuerung & Einstellungen
-*Erhöhe* die Helligkeit
-*Verringere* die Helligkeit
-
-*Aktiviere* WLAN
-*Deaktiviere* WLAN
-
-*Aktiviere* Bluetooth
-*Deaktiviere* Bluetooth
-
-*Aktiviere* Flugmodus
-*Deaktiviere* Flugmodus
-
-*Aktiviere* Night Shift
-*Deaktiviere* Night Shift
-
-*Aktiviere* Nicht stören
-*Deaktiviere* Nicht stören
-
-*Aktiviere* Mobile Daten
-*Deaktiviere* Mobile Daten
-
-*Aktiviere* Stromsparmodus
-*Deaktiviere* Stromsparmodus
-
-Strom sparen
-
-*Aktiviere* Farben umkehren
-*Deaktiviere* Farben umkehren
-
-Aktiviere den Bildschirmschoner
-
-Ist *WLAN* aktiviert?
-Ist *Bluetooth* aktiviert?
-Ist *Flugmodus* aktiviert?
-Ist *Night Shift* aktiviert?
-Ist *Nicht Stören* aktiviert?
-Ist *Mobile Daten* aktiviert?
-
-Ist *WLAN* aktiviert?
-Ist *Bluetooth* aktiviert?
-Ist *Nicht Stören* aktiviert?
-
-Öffne die *Mitteilungen* Einstellungen
-Öffne die *Kontrollzentrum* Einstellungen
-Öffne die *Bedienungshilfen* Einstellungen
-Öffne die *Tastatur* Einstellungen
-Öffne die *Anzeige & Hintergrund* Einstellungen
-Öffne die *Töne* Einstellungen
-Öffne die *Touch ID* Einstellungen
-Öffne die *Batterie* Einstellungen
-Öffne die *Datenschutz* Einstellungen
-Öffne die *Ortungsdienste* Einstellungen
-Öffne die *iCloud* Einstellungen
-Öffne die *iTunes & App Store* Einstellungen
-Öffne die *Mail* Einstellungen
-Öffne die *Kontakte* Einstellungen
-Öffne die *Kalender* Einstellungen
-Öffne die *Notizen* Einstellungen
-Öffne die *Erinnerungen* Einstellungen
-Öffne die *Nachrichten* Einstellungen
-Öffne die *Facetime* Einstellungen
-Öffne die *Karten* Einstellungen
-Öffne die *Musik* Einstellungen
-Öffne die *Videos* Einstellungen
-Öffne die *Fotos* Einstellungen
-Öffne die *iBooks* Einstellungen
-Öffne die *Podcasts* Einstellungen
-Öffne die *Twitter* Einstellungen
-
-Öffne die Einstellungen *Allgemein*
-Öffne die Einstellungen *Dock*
-Öffne die Einstellungen *Misson Control*
-Öffne die Einstellungen *Sicherheit*
-Öffne die Einstellungen *Spotlight*
-Öffne die Einstellungen *Mitteilungen*
-Öffne die Einstellungen *Monitore*
-Öffne die Einstellungen *Tastatur*
-Öffne die Einstellungen *Maus*
-Öffne die Einstellungen *Trackpad*
-Öffne die Einstellungen *Drucker*
-Öffne die Einstellungen *Ton*
-Öffne die Einstellungen *App Store*
-Öffne die Einstellungen *Internet-Accounts*
-Öffne die Einstellungen *Bluetooth*
-Öffne die Einstellungen *Teilen*
-Öffne die Einstellungen *Benutzer & Gruppen*
-Öffne die Einstellungen *Kindersicherung*
-Öffne die Einstellungen *Bedienungshilfen*
-
-## HomeKit
-Ich bin zuhause
-
-*Abendessen*
-*Filmabend*
-*Party!*
-*Gute Nacht*
-
-Stelle die Lampen auf *blau*
-Stelle die Lampen auf *grün*
-Stelle die Lampen auf *rot*
-
-Schalte *das Radio im Wohnzimmer* *aus*
-Schalte *den Drucker im Büro* *ein*
-Schalte *das Licht in Sabrinas Zimmer* *aus*
-Schalte *die Heizung im Badezimmer* *ein*
-
-Reduziere die Helligkeit der Lampen unten auf 50%
-
-Stelle den Thermostat in der Skihütte auf 22 Grad
-
-Stell die Wohnzimmerlichter so hell wie möglich
-
-Dimme das Licht *im Wohnzimmer* auf *70%*
-Dimme das Licht *im Schlafzimmer* auf *40%*
-Dimme das Licht *in der Küche* auf *80%*
-
-Schließe die Haustür ab
-
-## Benachrichtigungen
-Lies meine Mitteilungen vor
-
-## Kontakte & Anrufe
-*Thomas* ist *mein Bruder*
-*Amanda* ist *meine Mutter*
-*Tanja* ist *meine Freundin*
-
-Lerne meinen Namen richtig auszusprechen
-
-Zeige den Kontakt *Thomas Müller*
-Zeige den Kontakt *Amanda Fischer*
-Zeige den Kontakt *Tanja Jung*
-
-Wo ist *meine Schwester* ?
-Wo ist *mein Bruder* ?
-Wo ist *mein Vater* ?
-Wo ist *Tanja Jung* ?
-
-Wann hat *Thomas* Geburtstag?
-Wann hat *Amanda* Geburtstag?
-Wann hat *Tanja* Geburtstag?
-
-Finde die Nummer von *meinem Bruder*
-Finde die Nummer von *meiner Mutter*
-Finde die Nummer von *meiner Freundin*
-
-Rufe *+49 1 23 45 67-89* an
-Rufe *+49 1 66 66 66-66* an
-Rufe *+49 5 12 34 56-78* an
-
-Rufe *meine Schwester* an
-Rufe *zu Hause* an
-Rufe *Julian* an
-Rufe *Patrick* an
-
-Rufe *Sonja Mobil* an
-Rufe *Julian Arbeit* an
-Rufe *Patrick Privat* an
-
-Rufe *meine Schwester* auf dem Lautsprecher an
-Rufe *zu Hause* auf dem Lautsprecher an
-Rufe *Julian* auf dem Lautsprecher an
-Rufe *Patrick* auf dem Lautsprecher an
-
-Rufe *die nächste Apotheke* an
-Rufe *das nächste Restaurant* an
-Rufe *den nächsten McDonald's* an
-
-Anrufliste
-
-Wähle die letzte Nummer erneut
-
-Verpasste Anrufe?
-
-Ruf meinen letzten verpassten Anruf zurück
-
-Wann hat *meine Schwester* angerufen?
-Wann hat *Julian* angerufen?
-Wann hat *Patrick* angerufen?
-
-Neue Voicemail?
-
-Spiel die letzte Voicemail ab
-
-Spiele die Voicemail von *Samantha*
-Spiele die Voicemail von *Julian*
-Spiele die Voicemail von *Patrick*
-
-Wem gehört dieses Gerät?
-
-Rufe *den Notruf* an
-Rufe *die Polizei* an
-Rufe *die Feuerwehr* an
-
-## FaceTime
-Rufe *Samantha* per FaceTime an
-Rufe *Patrick* per FaceTime an
-
-Rufe *Samantha* per FaceTime Audio an
-Rufe *Patrick* per FaceTime Audio an
-
-## Nachrichten
-Zeig mir meine Nachrichten
-
-Zeig mir die letzte Nachricht von *Max Mustermann*
-Zeig mir die letzte Nachricht von *Samantha Schmidt*
-Zeig mir die letzte Nachricht von *Tom*
-
-*Texte* *John Doe* *bin beschäftigt*
-*Schicke* *meiner Freundin* *komme später*
-*Sende* *Samantha* *bis später*
-*Sage* *meiner Frau* *ich gehe noch einkaufen*
-
-## E-Mail
-Prüfe meine E-Mails
-
-Lies meine letzte E-Mail
-
-Neue E-Mails von *Max Mustermann* ?
-Neue E-Mails von *meinem Chef* ?
-Neue E-Mails von *Samantha Schmidt* ?
-Neue E-Mails von *meiner Schwester* ?
-
-Zeig mir meine letzte E-Mail von *Max Mustermann*
-Zeig mir meine letzte E-Mail von *meinem Chef*
-Zeig mir meine letzte E-Mail von *Samantha Schmidt*
-Zeig mir meine letzte E-Mail von *meiner Schwester*
-
-Zeig mir meine E-Mail von *Max Mustermann* von *gestern*
-Zeig mir meine E-Mail von *meinem Chef* von *Freitag*
-Zeig mir meine E-Mail von *Samantha Schmidt* von *letzter Woche*
-Zeig mir meine E-Mail von *meiner Schwester* von *heute*
-
-Antworte auf diese E-Mail
-
-Schicke eine E-Mail an *Max Mustermann* mit dem Betreff *Protokoll vom Freitag*
-Schicke eine E-Mail an *Samantha Schmidt* mit dem Betreff *Projektplanung*
-Schicke eine E-Mail an *Tom* mit dem Betreff *Finanzen*
-
-## Soziale Apps
-Poste auf *Facebook* *Ich esse gerade ein Sandwich*
-Poste auf *Twitter* *gutes neues Jahr!*
-
-Tweete mit meinem Standort *sehr heiss hier*
-Tweete mit meinem Standort *großartige Aussicht!*
-
-Zeig mir aktuelle Tweets
-
-Zeig mir Trends auf Twitter
-
-Zeige mir Tweets von *Apple*
-Zeige mir Tweets von *Twitter*
-
-## Kalender
-Welches Datum ist heute?
-
-*Füge* *ein Meeting hinzu*
-*Füge* *ein Event hinzu*
-*Erstelle* *ein Meeting*
-*Erstelle* *ein Event*
-*Neues* *Meeting*
-*Neues* *Event*
-
-Erstelle ein Meeting mit *Thomas* für *morgen* um *9 Uhr*
-Erstelle ein Meeting mit *Samantha* für *heute* um *15 Uhr*
-Erstelle ein Meeting mit *Julian* für *nächsten Donnerstag* um *18:30 Uhr*
-
-Erstelle ein Ereignis mit dem Namen *Budgetplanung* jeden *Montag* um *9 Uhr*
-Erstelle ein Ereignis mit dem Namen *Fußballmatch* jeden *Donnerstag* um *15 Uhr*
-Erstelle ein Ereignis mit dem Namen *Golfturnier* jeden *Freitag* um *18:30 Uhr*
-
-Lies meinen Kalender vor
-
-Zeig mir meine nächsten Termine
-
-Wo ist mein nächstes Meeting?
-
-Zeig mir meine Termine für *heute Abend*
-Zeig mir meine Termine für *morgen Vormittag*
-Zeig mir meine Termine für *nächste Woche*
-
-Wie sieht mein Kalendar am *Montag* aus?
-Wie sieht mein Kalendar am *Dienstag* aus?
-Wie sieht mein Kalendar am *Mittwoch* aus?
-Wie sieht mein Kalendar am *Donnerstag* aus?
-Wie sieht mein Kalendar am *Freitag* aus?
-Wie sieht mein Kalendar am *Samstag* aus?
-Wie sieht mein Kalendar am *Sonntag* aus?
-
-Wann treffe ich mich mit *Thomas* ?
-Wann treffe ich mich mit *Amanda Fischer* ?
-Wann treffe ich mich mit *Tanja Jung* ?
-
-Lösche mein *Budgetplanung* Ereignis von *morgen*
-Lösche mein *Fußballmatch* Ereignis von *heute*
-Lösche mein *Golfturnier* Ereignis von *nächsten Donnerstag*
-
-Lösche mein Ereignis mit *Thomas*
-Lösche mein Ereignis mit *Amanda Fischer*
-Lösche mein Ereignis mit *Tanja Jung*
-
-## Erinnerungen
-Füge eine Erinnerung hinzu
-
-Erinnere mich an *Milch* auf der Liste *Einkaufen*
-Erinnere mich an *Hotel buchen* auf der Liste *Ferien*
-Erinnere mich an *Meeting organisieren* auf der Liste *Arbeit*
-
-Erinnere mich *in 4 Stunden* *Auto waschen*
-Erinnere mich *um 18 Uhr* *meiner Schwester schreiben*
-Erinnere mich *um 9:30 Uhr* *Milch kaufen*
-
-Erinnere mich *Auto waschen* wenn ich *das Haus verlasse*
-Erinnere mich *meiner Schwester schreiben* wenn ich *nach Hause komme*
-Erinnere mich *Tom anrufen* wenn ich *zur Arbeit komme*
-
-Erinnere mich *alle zwei Wochen* *Auto waschen*
-Erinnere mich *jeden Tag* *Sport machen*
-Erinnere mich *jeden Montag Abend* *Wohnung putzen*
-
-Erinnere mich *in einer Stunde* daran
-Erinnere mich *morgen* daran
-
-Lösche meine Erinnerung *Auto waschen*
-Lösche meine Erinnerung *Sport machen*
-Lösche meine Erinnerung *Wohnung putzen*
-
-Erstelle eine neue Liste *Einkauf*
-Erstelle eine neue Liste *Ferienplanung*
-Erstelle eine neue Liste *Hausaufgaben*
-
-Zeig mir meine Liste *Einkauf*
-Zeig mir meine Liste *Ferienplanung*
-Zeig mir meine Liste *Hausaufgaben*
-
-## Notizen
-Notiere *12 Euro für Pizza*
-Notiere *Interessante Filme*
-Notiere *Präsentation*
-
-Zeige Notizen
-
-Zeig mir meine *Ausgaben* Notiz
-Zeig mir meine *Filme* Notiz
-Zeig mir meine *Präsentation* Notiz
-
-Zeig mir meine Notizen *von gestern*
-Zeig mir meine Notizen *von letzter Woche*
-Zeig mir meine Notizen *vom April*
-
-## Karten & Navigation
-Karte von *Deutschland*
-Karte von *Florida*
-Karte von *Madrid*
-
-Zeig mir *das nächste Restaurant* auf der Karte
-Zeig mir *den nächsten McDonald's* auf der Karte
-Zeig mir *das nächste Hotel* auf der Karte
-
-Zeig mir den Verkehr
-
-Zeig mir den Verkehr in *Berlin*
-Zeig mir den Verkehr in *Frankfurt*
-Zeig mir den Verkehr in *Zürich*
-
-*Navigiere* *mit dem Auto* nach *Berlin*
-*Bring mich* *als Fussgänger* nach *Frankfurt*
-*Zeige mir den Weg* *mit der Bahn* nach *Zürich*
-
-Navigiere *mit dem Auto* zu *Samantha*
-Navigiere *als Fussgänger* zu *meiner Freundin*
-Navigiere *mit der Bahn* zu *Tom*
-
-Bring mich nach Hause
-
-Stoppe die Navigation
-
-Wie weit entfernt ist *Berlin* ?
-Wie weit entfernt ist *Zürich* ?
-
-Wie weit ist *Berlin* von *Madrid* entfernt?
-Wie weit ist *München* von *Hamburg* entfernt?
-Wie weit ist *Genf* von *Zürich* entfernt?
-
-Was sind Touristenattraktionen in der Nähe?
-
-Wo ist *der Big Ben* ?
-Wo ist *die Freiheitsstatue* ?
-Wo ist *der Eiffelturm* ?
-
-Hat der *Central Park* geöffnet?
-Hat der *Eiffelturm* geöffnet?
-
-Welche Höhe haben wir?
-
-Wo sind wir?
-
-## Mein iPhone suchen
-Wo bist du?
-
-Wo ist mein *iPhone* ?
-Wo ist mein *iPad* ?
-Wo ist mein *MacBook Pro* ?
-
-## Zeit
-Welche Uhrzeit ist in *London* ?
-Welche Uhrzeit ist in *Yew York* ?
-Welche Uhrzeit ist in *Madrid* ?
-
-Wie spät ist es?
-
-Welche Uhrzeit ist zu Hause?
-
-## Alarm / Wecker
-Setze einen Alarm in *12* *Minuten*
-Setze einen Alarm in *1* *Stunde*
-Setze einen Alarm in *200* *Sekunden*
-
-Setze den Alarm *'Hallo'* *um 6 Uhr*
-Setze den Alarm *'Aufstehen'* *in 8 Stunden*
-Setze den Alarm *'Weiterarbeiten'* *in 20 Minuten*
-
-Wecke mich *um 6 Uhr*
-Wecke mich *in 8 Stunden*
-Wecke mich *in 20 Minuten*
-
-Wecke mich jeden *Montag* um *um 6 Uhr*
-Wecke mich jeden *Mittwoch* um *7 Uhr*
-Wecke mich jeden *Freitag* um *7:25 Uhr*
-
-Ändere meinen Wecker *Arbeit* auf *6:30 Uhr*
-Ändere meinen Wecker *Aufstehen* auf *7 Uhr*
-
-*Aktiviere* meinen *6 Uhr* Alarm
-*Deaktiviere* meinen *20 Uhr* Alarm
-
-*Aktiviere* meinen *'Hallo'* Alarm
-*Deaktiviere* meinen *'Aufstehen'* Alarm
-
-*Aktiviere* alle meine Wecker
-*Deaktiviere* alle meine Wecker
-
-Lösche alle meine Wecker
-
-Zeige mir meine Wecker
-
-## Timer
-*Timer* *20 Minuten*
-*Countdown* *1 Stunde*
-*Eieruhr* *2 Stunden 10 Minuten*
-
-Starte den Countdown
-
-*Pausiere* den Timer
-*Stoppe* den Timer
-
-Starte den Timer wieder
-
-Ändere den Timer auf *10 Minuten*
-Ändere den Timer auf *30 Minuten*
-Ändere den Timer auf *2 Stunden*
-
-Zeige den Timer
-
-Lösche den Timer
-
-## Menschen & Beziehungen
-Wie alt ist *Charlie Sheen* ?
-Wie alt ist *Pamela Anderson* ?
-Wie alt ist *Barack Obama* ?
-
-Wann wurde *Charlie Sheen* geboren?
-Wann wurde *Pamela Anderson* geboren?
-Wann wurde *Barack Obama* geboren?
-
-Wo wurde *Charlie Sheen* geboren?
-Wo wurde *Pamela Anderson* geboren?
-Wo wurde *Barack Obama* geboren?
-
-Wo ist *Michael Jackson* gestorben?
-
-Wann ist *Steve Jobs* gestorben?
-Wann ist *Michael Jackson* gestorben?
-
-Wer hat das iPhone erfunden?
-
-## Wetter
-Wie ist das Wetter?
-
-Benötige ich *einen Schirm* für *heute* ?
-Benötige ich *eine Sonnenbrille* für *heute morgen* ?
-Benötige ich *einen Schirm* für *Samstagmorgen* ?
-Benötige ich *eine Sonnenbrille* für *morgen* ?
-
-Wie ist *morgen* das Wetter in *Madrid* ?
-Wie ist *heute morgen* das Wetter in *New York* ?
-Wie ist *heute* das Wetter in *Boston* ?
-
-Welche Temperatur ist draußen?
-
-Welche gefühlte Temperatur ist draußen?
-
-Wie ist der Taupunkt draußen?
-
-Ist es windig draußen?
-
-Was beträgt der Luftdruck?
-
-Wie ist die Sicht draußen?
-
-Wie ist die Luftfeuchtigkeit *draußen* ?
-Wie ist die Luftfeuchtigkeit *in Berlin* ?
-Wie ist die Luftfeuchtigkeit *in Zürich* ?
-
-Wird es *morgen* regnen?
-Wird es *heute Nacht* regnen?
-Wird es *heute* regnen?
-
-Wann ist der *Sonnenuntergang* ?
-Wann ist der *Sonnenaufgang* ?
-
-Wann ist der *Sonnenuntergang* *morgen* ?
-Wann ist der *Sonnenaufgang* *am Freitag* ?
-
-Wann ist der *Sonnenuntergang* in *New York* ?
-Wann ist der *Sonnenaufgang* in *Madrid* ?
-Wann ist der *Sonnenuntergang* in *Paris* ?
-Wann ist der *Sonnenaufgang* in *Boston* ?
-
-Wann ist der *Sonnenuntergang* *morgen* in *New York* ?
-Wann ist der *Sonnenaufgang* *übermorgen* in *Madrid* ?
-Wann ist der *Sonnenuntergang* *am Freitag* in *Paris* ?
-Wann ist der *Sonnenaufgang* *nächsten Donnerstag* in *Boston* ?
-
-## Aktien
-Was macht die *Apple* Aktie?
-Was macht die *Alphabet* Aktie?
-Was macht die *Nestlé* Aktie?
-
-Vergleiche *DAX* mit *Dow Jones*
-Vergleiche *Apple* mit *Microsoft*
-Vergleiche *Alphabet* mit *Microsoft*
-
-## Definitionen & Suche
-Definiere *Flugzeug*
-Definiere *Smartphone*
-Definiere *Apfel*
-
-Was ist die Definition von *Flugzeug* ?
-Was ist die Definition von *Smartphone* ?
-Was ist die Definition von *Apfel* ?
-
-## Websuche
-Suche im Web nach *iPhone*
-Suche im Web nach *Wie wird man reich?*
-Suche im Web nach *bestes Smartphone*
-
-Suche auf Wikipedia nach *iPhone*
-Suche auf Wikipedia nach *Mount Everest*
-Suche auf Wikipedia nach *Steve Jobs*
-
-Suche auf *Google* nach *iPhone*
-Suche auf *Bing* nach *Wie wird man reich?*
-Suche auf *Yahoo* nach *bestes Smartphone*
-
-Finde Bilder zum Thema *Haus*
-Finde Bilder zum Thema *Flugzeug*
-Finde Bilder zum Thema *Menschen*
-
-## Wissen
-Was ist die Population *von Indien* ?
-Was ist die Population *der Schweiz* ?
-Was ist die Population *von China* ?
-
-Wie lang ist *der Bodensee* ?
-Wie lang ist *der Rhein* ?
-Wie lang ist *die Donau* ?
-
-Wie hoch ist *die Zugspitze* ?
-Wie hoch ist *der Watzmann* ?
-Wie hoch ist *der Fichtelberg* ?
-
-Was ist die Hauptstadt *der Schweiz* ?
-Was ist die Hauptstadt *von Deutschland* ?
-Was ist die Hauptstadt *von China* ?
-
-Wie schreibt man *nämlich* ?
-Wie schreibt man *Charisma* ?
-Wie schreibt man *dilettantisch* ?
-Wie schreibt man *Fronleichnam* ?
-
-## Bücher
-Finde Bücher von *Tess Gerritsen*
-Finde Bücher von *Anne Frank*
-Finde Bücher von *Andreas Gruber*
-
-## Filme
-Kannst du mir einen Film empfehlen?
-
-Infos zum Film *Findet Nemo*
-Infos zum Film *Für immer Single*
-Infos zum Film *Freundschaft Plus*
-
-Wie lange dauert *Findet Nemo* ?
-Wie lange dauert *Für immer Single* ?
-Wie lange dauert *Freundschaft Plus* ?
-
-Wer spielt in *Findet Nemo* ?
-Wer spielt in *Für immer Single* ?
-Wer spielt in *Freundschaft Plus* ?
-
-Filme mit *Matthias Schweighöfer*
-Filme mit *Brad Pitt*
-Filme mit *Jennifer Lawrence*
-
-Zeig mir Bewertungen von *Findet Nemo*
-Zeig mir Bewertungen von *Für immer Single*
-Zeig mir Bewertungen von *Freundschaft Plus*
-
-Zeig mir *Familienfilme*
-Zeig mir *Komödien*
-Zeig mir *Thriller*
-
-## Musik
-Spiele Musik
-
-Vorheriger Song
-
-Nächster Song
-
-Überspringen
-
-Spiele das Lied von vorne
-
-Wiederhole diesen Song
-
-*Pause*
-*Halt die Musik an*
-*Pausiere den Song*
-
-Spiele *Nur noch kurz die Welt retten* von *Tim Bendzko*
-Spiele *Animals* von *Martin Garrix*
-Spiele *Hall of Fame* von *The Script*
-
-Spiele *Nur noch kurz die Welt retten* von *Tim Bendzko* nach diesem Song
-Spiele *Animals* von *Martin Garrix* nach diesem Song
-Spiele *Hall of Fame* von *The Script* nach diesem Song
-
-Album *Wenn Worte meine Sprache wären* abspielen
-Album *Meine Zeit* abspielen
-Album *Next* abspielen
-
-Spiele *Eminem*
-Spiele *Pegasus*
-Spiele *Olly Murs*
-
-Spiele Playlist *Fitness*
-Spiele Playlist *ausruhen*
-Spiele Playlist *arbeiten*
-
-Spiel zufällig die Playlist *Fitness*
-Spiel zufällig die Playlist *ausruhen*
-Spiel zufällig die Playlist *arbeiten*
-
-*Was höre ich?*
-*Was läuft?*
-*Was ist das für ein Song?*
-
-Wer singt das?
-
-Ich mag diesen Song
-
-Spiele ähnliche Songs
-
-## Fotos
-Zeig mir alle meine Fotos
-
-Zeig mir meine Favoritenfotos
-
-Zeig meine Selfies
-
-Zeig mir meine Fotos *von heute*
-Zeig mir meine Fotos *von gestern*
-Zeig mir meine Fotos *von letzter Woche*
-Zeig mir meine Fotos *vom letzten Jahr*
-Zeig mir meine Fotos *vom 15. Mai*
-Zeig mir meine Fotos *vom August 2015*
-
-Zeig mir meine Fotos von *Berlin*
-Zeig mir meine Fotos von *Luzern*
-Zeig mir meine Fotos von *Schweden*
-Zeig mir meine Fotos von *Madrid*
-
-## Sport
-Wie hat *FC Bayern München* gespielt?
-Wie hat *Hannover 96* gespielt?
-Wie hat *Schalke 04* gespielt?
-
-Resultate vom letzten Spiel von *FC Bayern München* ?
-Resultate vom letzten Spiel von *Hannover 96* ?
-Resultate vom letzten Spiel von *Schalke 04* ?
-
-Wann spielt *FC Bayern München* das nächste Mal?
-Wann spielt *Hannover 96* das nächste Mal?
-Wann spielt *Schalke 04* das nächste Mal?
-
-Wann beginnen die olympischen Spiele?
-
-Wann beginnen die olympischen Winterspiele?
-
-## Entscheidungen & Zufall
-Wirf eine Münze
-
-Zieh eine Karte
-
-Wirf einen Würfel
-
-Wirf einen Würfel
-
-Wirf einen *vierseitigen* Würfel
-Wirf einen *sechsseitigen* Würfel
-Wirf einen *achtseitigen* Würfel
-Wirf einen *zehnseitigen* Würfel
-Wirf einen *zwölfseitigen* Würfel
-Wirf einen *20-seitigen* Würfel
-Wirf einen *100-seitigen* Würfel
-
-Zufallszahl
-
-Zufallszahl zwischen *1* und *10*
-Zufallszahl zwischen *0* und *20*
-Zufallszahl zwischen *30* und *60*
-
-## Funny
-Wie viel ist *eine Million*  dividiert durch 0?
-Wie viel ist *0*  dividiert durch 0?
-
-Was ist unendlich mal unendlich?
-
-Erzähl mir *einen Witz*
-Erzähl mir *einen Zungenbrecher*
-Erzähl mir *eine Geschichte*
-Erzähl mir *ein Gedicht*
-
-Sing mir ein Schlaflied
-
-Warpgeschwindigkeit
-
-Beam mich hoch
-
-Ich bin dein Vater
-
-Schere Stein Papier
-
-Schere Stein Papier Echse Spock
-
-Sing mir bitte sofort ein Lied
-
-Küsse mich
-
-Rate mal
-
-Willst du mich heiraten?
-
-Möge die Macht mit dir sein
-
-Bist du *eine Frau* ?
-Bist du *ein Mann* ?
-
-Bist du da?
-
-Was machst du gerade?
-
-Was hast du an?
-
-Wie ist es du zu sein?
-
-Hast du einen Freund?
-
-Was ist deine politische Einstellung?
-
-Kennst du Anmachsprüche?
-
-Wie macht der Fuchs?
-
-Warum ist die Banane krumm?
-
-Gibt es Gott?
-
-Was ist der Sinn des Lebens?
-
-Welches ist das beste Smartphone?
-
-Wann wird die Welt untergehen?
-
-Speiglein, Spieglein an der Wand, wer ist *die* Schönste im ganzen Land?
-Speiglein, Spieglein an der Wand, wer ist *der* Schönste im ganzen Land?
-
-Du bist die *Geilste*
-Du bist die *schönste*
-
-Rap
-
-Beatboxe
-
-Klopf Klopf
-
-OK Google
-
-Hey Cortana
-
-Ich bin *nackt*
-Ich bin *betrunken*
-
-Klappe!
-
-Verschwinde
-
-## Diktat
-Komma
-
-Punkt
-
-Zitat *Anfang*
-Zitat *Ende*
-
-Apostroph
-
-Bindestrich
-
-Unterstrich
-
-Sternchen
-
-Kaufmännisches Und
-
-At-Zeichen
-
-Grad
-
-Einschaltungszeichen
-
-Größer als
-
-Kleiner als
-
-Schrägstrich
-
-Umgekehrter Schrägstrich
-
-Vertikaler Strich
-
-Prozentzeichen
-
-Copyrightzeichen
-
-Paragraphzeichen
-
-Dollarzeichen
-
-Euro-Zeichen
-
-Yen-Zeichen
-
-Pfund-Zeichen
-
-Klammer *auf*
-Klammer *zu*
-
-Eckige Klammer *auf*
-Eckige Klammer *zu*
-
-Geschweifte Klammer *auf*
-Geschweifte Klammer *zu*
-
-Ausrufezeichen
-
-Fragezeichen
-
-Neue Zeile
-
-Neuer Absatz
-
-Groß
-
-Lachendes Smiley
-
-Smiley mit Zunge
-
-Trauriges Smiley
-
-Weinendes Smiley
-
-Zwinkerndes Smiley
-
-
-##Credit
-```
-Hey-Siri.io
